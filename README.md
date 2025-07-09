@@ -1,4 +1,6 @@
 ##FunCaptcha Bypass Bot (Twitter Edition)
+
+
 This project is a browser automation bot built with Node.js, Puppeteer, and stealth techniques to bypass Arkose Labs’ FunCaptcha challenges, such as those found on Twitter login pages. It mimics human interaction and supports both testing via a dummy form and live CAPTCHA bypass on Twitter (burner account recommended).
 
 > ⚠️ **For educational purposes only. Do not use on real accounts or services without permission.**
